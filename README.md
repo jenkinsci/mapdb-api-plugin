@@ -29,4 +29,4 @@ To test in a local Jenkins instance
     mvn hpi:run
 
   [upstream]: http://www.mapdb.org
-  [wiki]: http://wiki.jenkins-ci.org/display/JENKINS/Literate+Plugin
+  [wiki]: http://wiki.jenkins-ci.org/display/JENKINS/MapDB+API+Plugin
