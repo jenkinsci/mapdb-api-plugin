@@ -1,0 +1,3 @@
+<div>
+  This plugin provides a shared dependency on the <a href="http://www.mapdb.org">MapDB</a> library so that other plugins can co-operate when using this library.
+</div>
