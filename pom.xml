@@ -14,7 +14,7 @@
 
   <name>MapDB API Plugin</name>
   <description>This plugin provides a shared dependency on the MapDB library so that other plugins can co-operate when using this library.</description>
-  <url>http://wiki.jenkins-ci.org/display/JENKINS/MapDB+API+Plugin</url>
+  <url>https://github.com/jenkinsci/mapdb-api-plugin</url>
 
   <licenses>
     <license>
