@@ -10,7 +10,7 @@
   </parent>
 
   <artifactId>mapdb-api</artifactId>
-  <version>${revision}${changelist}</version>
+  <version>${revision}-${changelist}</version>
   <packaging>hpi</packaging>
 
   <name>MapDB API Plugin</name>
@@ -43,8 +43,8 @@
   </scm>
 
   <properties>
-    <revision>1.0.9.1</revision>
-    <changelist>-SNAPSHOT</changelist>
+    <revision>1.0.9</revision>
+    <changelist>99999-SNAPSHOT</changelist>
     <jenkins.version>2.319.1</jenkins.version>
     <gitHubRepo>jenkinsci/${project.artifactId}-plugin</gitHubRepo>
   </properties>
@@ -64,15 +64,10 @@
    </pluginRepositories>
 
   <dependencies>
-    <!-- regular dependencies -->
     <dependency>
       <groupId>org.mapdb</groupId>
       <artifactId>mapdb</artifactId>
-      <version>1.0.9</version>
+      <version>${revision}</version>
     </dependency>
-    <!-- plugin dependencies -->
-    <!-- jenkins dependencies -->
-    <!-- test dependencies -->
   </dependencies>
-
 </project>
