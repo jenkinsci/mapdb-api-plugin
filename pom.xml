@@ -43,7 +43,7 @@
   </scm>
 
   <properties>
-    <revision>1.0.9</revision>
+    <revision>3.0.10</revision>
     <changelist>99999-SNAPSHOT</changelist>
     <jenkins.version>2.361.4</jenkins.version>
     <gitHubRepo>jenkinsci/${project.artifactId}-plugin</gitHubRepo>
