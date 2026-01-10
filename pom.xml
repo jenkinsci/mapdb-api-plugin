@@ -25,16 +25,6 @@
     </license>
   </licenses>
 
-  <developers>
-    <developer>
-      <id>stephenc</id>
-      <name>Stephen Connolly</name>
-      <roles>
-        <role>developer</role>
-      </roles>
-    </developer>
-  </developers>
-
   <scm>
     <connection>scm:git:https://github.com/${gitHubRepo}.git</connection>
     <developerConnection>scm:git:git@github.com:${gitHubRepo}.git</developerConnection>
